@@ -1,1 +1,3 @@
 request_id,submitted_date,request_type,category,subcategory,title,description,requested_by,department,location,asset_id,priority,status,assigned_group,knowledge_article_id,requested_for,due_date,resolution_notes,closed_date
+R-1001,2026-04-18,Service Request,Accounts & Access,New User Account,Create account for new hire,New hire starting Monday needs laptop login email and VPN,manager1,HR,Waller,,Medium,Open,Service Desk,KB-001,jsantos,2026-04-21,,
+R-1002,2026-04-18,Incident,Printing & Peripherals,Printer Issue,Printer offline in HR,Shared printer not responding for HR team,hruser,HR,Waller,A001,High,Open,Desktop Support,KB-003,hruser,2026-04-19,,

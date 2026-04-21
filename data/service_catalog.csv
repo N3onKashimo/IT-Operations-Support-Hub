@@ -1,1 +1,4 @@
 service_id,service_name,category,request_type,description,target_fulfillment_days,requires_approval,approval_role,knowledge_article_id,status
+SVC-001,New User Account Setup,Accounts & Access,Service Request,Provision baseline account access for a new employee,3,Yes,Manager,KB-001,Active
+SVC-002,Password Reset / Unlock,Accounts & Access,Service Request,Reset or unlock a user account after identity verification,1,No,,KB-002,Active
+SVC-003,Printer Support,Printing & Peripherals,Incident,Resolve printer connectivity or print quality issues,2,No,,KB-003,Active
